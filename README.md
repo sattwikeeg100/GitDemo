@@ -1,2 +1,4 @@
 # GitDemo
-It's for demo
+It's for demo purpose
+
+Our first edit
